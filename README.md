@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @RNSS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RNSS/RNSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Renad Alsweed
+- 👀 I’m interested in Data
+- 🌱 I’m currently improving my skills related to Data Analyzing and engineering
+- 📫 You can reach me with my email - Renad_Alsweed@outlook.com
